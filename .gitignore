@@ -1,0 +1,14 @@
+# environments and caches
+.venv/
+myenv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+
+# secrets
+.env
+
+# the raw Kaggle file is ~94 MB; GitHub rejects files over 100 MB and anyone can re-download it
+data/raw/events.csv
+data/raw/*.zip

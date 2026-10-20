@@ -1,0 +1,10 @@
+# Python 3.11. Install with:  pip install -r requirements.txt
+neo4j>=5.26,<7
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+networkx>=3.2
+tqdm>=4.66
+ipykernel>=6.29       
+pytest>=8.0           
